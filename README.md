@@ -25,6 +25,7 @@ Depois de intalar o R e o Rstudio, coloque o conteúdo do Zip e o programa phant
 Depois disso é só seguir o script. Segue um vídeo com uma demonstração.
 
 
+[<img src="https://img.youtube.com/vi/qlUCWeLgUKA/maxresdefault.jpg" width="50%">](https://youtu.be/qlUCWeLgUKA)
 
 
 
