@@ -25,7 +25,7 @@ Depois de intalar o R e o Rstudio, coloque o conteúdo do Zip e o programa phant
 Depois disso é só seguir o script. Segue um vídeo com uma demonstração.
 
 
-[<img src="https://img.youtube.com/vi/qlUCWeLgUKA/maxresdefault.jpg" width="90%">](https://youtu.be/qlUCWeLgUKA)
+[<img src="https://img.youtube.com/vi/wx_9C8i8MRY/maxresdefault.jpg" width="90%">](https://youtu.be/wx_9C8i8MRY)
 
 http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/Roteiros/2_monographaR.html
 
