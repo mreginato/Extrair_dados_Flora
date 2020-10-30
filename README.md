@@ -16,7 +16,7 @@ As seguintes funções e script:
 
 E os seguintes dados:
 
-* * [Data as Dwc-File do site da Flora do Brasil](http://ipt.jbrj.gov.br/jbrj/resource?r=lista_especies_flora_brasil)
+* [Data as Dwc-File do site da Flora do Brasil](http://ipt.jbrj.gov.br/jbrj/resource?r=lista_especies_flora_brasil)
 
 ## Turorial
 
