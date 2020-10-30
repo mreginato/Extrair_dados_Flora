@@ -4,7 +4,7 @@ Nesse repositório estão algumas funções e um script para a extração dos da
 
 # Requisitos
 
-Para a extração dos dados será iremos utilizar alguns programas (fazer o download e/ou instalar)
+Para a extração dos dados iremos utilizar alguns programas (fazer o download e/ou instalar)
 
 * [R](https://cran.r-project.org/)
 * [Rstudio Desktop](https://rstudio.com/products/rstudio/download/)
