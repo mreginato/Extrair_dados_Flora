@@ -27,5 +27,8 @@ Depois disso é só seguir o script. Segue um vídeo com uma demonstração.
 
 [<img src="https://img.youtube.com/vi/wx_9C8i8MRY/maxresdefault.jpg" width="90%">](http://htmlpreview.github.io/?https://github.com/mreginato/Extrair_dados_Flora/blob/main/video.html)
 
+Talvez seja de interesse também. Segue um vídeo de como gerar uma chave interativa com o pacote monographaR.
+
+[<img src="https://img.youtube.com/vi/rGAd8iC8aCw/maxresdefault.jpg" width="90%">](http://htmlpreview.github.io/?https://github.com/mreginato/Extrair_dados_Flora/blob/main/video_chave.html)
 
 
