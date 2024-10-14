@@ -18,10 +18,10 @@ As seguintes funções: (disponível em [/functions](https://github.com/mreginat
 
 Estas funções precisam de alguns pacotes instalados (e carregados) para funcionar, para instalar as dependências no R digite:
 
-install.packages("pdftools", dependencies=T)
-install.packages("data.table", dependencies=T)
-install.packages("dplyr", dependencies=T)
-install.packages("webshot", dependencies=T)
+install.packages("pdftools", dependencies=T)  
+install.packages("data.table", dependencies=T)  
+install.packages("dplyr", dependencies=T)  
+install.packages("webshot", dependencies=T)  
 
 E o seguinte script: 
 
