@@ -10,7 +10,7 @@ Para a extração dos dados iremos utilizar alguns programas (fazer o download e
 * [Rstudio Desktop](https://rstudio.com/products/rstudio/download/)
 
 
-As seguintes funções: (disponível em /functions)
+As seguintes funções: (disponível em [/functions](https://github.com/mreginato/Extrair_dados_Flora/tree/main/functions))
 
 * buidMatrix.R
 * extractDescriptions.R
