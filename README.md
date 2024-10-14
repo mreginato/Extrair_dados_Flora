@@ -25,7 +25,7 @@ install.packages("webshot", dependencies=T)
 
 E o seguinte script: 
 
-extract.flora.data.R
+[extract.flora.data.R](https://github.com/mreginato/Extrair_dados_Flora/blob/main/extract.flora.data.R)
 
 Além disso precisamos dos dados disponíveis no site da Flora (fazer o download):
 
