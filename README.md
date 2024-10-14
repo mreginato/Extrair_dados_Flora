@@ -16,11 +16,16 @@ As seguintes funções: (disponível em [/functions](https://github.com/mreginat
 * extractDescriptions.R
 * getFloraTaxa.R
 
+Estas funções precisam de alguns pacotes instalados (e carregados) para funcionar, para instalar as dependências no R digite:
+
+install.packages("pdftools", dependencies=T)
+install.packages("data.table", dependencies=T)
+install.packages("dplyr", dependencies=T)
+install.packages("webshot", dependencies=T)
+
 E o seguinte script: 
 
 extract.flora.data.R
-
-* [Zip com as funções e um script exemplo](https://github.com/mreginato/Extrair_dados_Flora/raw/main/flora.zip)
 
 Além disso precisamos dos dados disponíveis no site da Flora (fazer o download):
 
