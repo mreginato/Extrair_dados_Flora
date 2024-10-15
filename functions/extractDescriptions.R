@@ -3,13 +3,13 @@ extractDescriptions <- function(taxa=NULL, free.description=F, delay=10) {
   
   if (free.description == F) {
     ini.m = "Descrição com campos controlados|Description with controlled"
-    final.m1 = "Descrição livre|Free description"
+    final.m1 = "Descricao Livre|Descrição livre|Free description"
     final.m2 = "Comentários|Commentaries"
     final.m3 = "Vouchers"
     final.m5 = "Origem|Origin"
     final.m4 = "Bibliografia Referência|Reference"
   } else {
-    ini.m = "Descrição livre|Free description"
+    ini.m = "Descricao Livre|Descrição livre|Free description"
     final.m1 = "xxxxxxxxxx"
     final.m2 = "Comentários|Commentaries"
     final.m3 = "Vouchers"
